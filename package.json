@@ -1,0 +1,11 @@
+{
+  "author": "NAD BEN",
+  "description": "ACME Ecommerce webstore",
+  "private": true,
+  "name": "ecommerce",
+  "dependencies": {
+    "gulp": "~3.9",
+    "gulp-sass": "^4.1.0",
+    "laravel-elixir": "*"
+  }
+}
